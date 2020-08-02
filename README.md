@@ -6,4 +6,4 @@ The second notebook (Notebook 2) explains the various libraries and plotting tec
 You will need to import prime.py for running (Notebook 1) and also iris dataset which is a csv file which will be used for (Notebook2).
 I have uploaded both the files.
 
-#This repository also contains detailed assignments and the answers to all the questions. Feel free to go through
+# This repository also contains detailed assignments and the answers to all the questions. Feel free to go through
